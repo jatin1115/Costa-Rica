@@ -1,5 +1,5 @@
 # Costa-Rica
-Using python to implement Machine Learning for Costa-Rica poverty analysis
+Using python in Jupyter Notebook to implement Machine Learning for Costa-Rica poverty analysis
 
 The file is a set of household characteristics from a representative sample of Costa Rican Households. The dataset has observations for each member of the household but the classification is done at the household level. That is, households cannot have two different classifications. Data is not presented at the household level so that participants can create their own household features from individual data.
 
